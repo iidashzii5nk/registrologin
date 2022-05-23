@@ -1,0 +1,5 @@
+Registrar, iniciar sesion validado datos, ver el usuario logueado y cerrrar sesion.
+
+https://www.youtube.com/watch?v=tqCgL5Ed3RM&ab_channel=J%26GProyectosWeb---------Formulario REGISTRO
+https://www.youtube.com/watch?v=MX1gz_hJqz4&t=3s&ab_channel=J%26GProyectosWeb---------- Validar formulario de Login con PHP
+https://www.youtube.com/watch?v=IAL6Nq6FW0s&t=447s---------------------> Como ver el usuario que inicia sesion y porder cerrar la sesión
